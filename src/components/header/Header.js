@@ -9,7 +9,6 @@ import FilterPc from "@/components/filterPc/FilterPc";
 const HeaderHome = () => {
   return (
     <>
-      <Upper />
       <Navbar_Home />
       <MainCover />
       <MobileCover />
